@@ -2,10 +2,10 @@ apiVersion: v1
 entries:
   buildkite-agent-metrics:
   - apiVersion: v1
-    appVersion: 3.0.1
-    created: "2020-07-09T00:01:28.556161+10:00"
+    appVersion: 5.2.0
+    created: "2020-12-21T10:23:14.409749+11:00"
     description: Buildkite Agent Metrics
-    digest: 9104625299d2122339c0b003189ca0761eeff7b07648c57d84a268783eaa6ae1
+    digest: 8416ddb0aacab8f0400d6e83a4fbf0d91e7d87a4201739dd0841a92b6150cadf
     home: https://github.com/buildkite/buildkite-agent-metrics
     maintainers:
     - email: seandavidjohnson@gmail.com
@@ -14,6 +14,6 @@ entries:
     sources:
     - https://github.com/buildkite/buildkite-agent-metrics
     urls:
-    - https://github.com/seanson/charts-buildkite-metrics-agent/releases/download/buildkite-agent-metrics-0.4.4/buildkite-agent-metrics-0.4.4.tgz
-    version: 0.4.4
-generated: "2020-07-09T00:01:28.213276+10:00"
+    - https://github.com/seanson/charts-buildkite-metrics-agent/releases/download/buildkite-agent-metrics-0.5.0/buildkite-agent-metrics-0.5.0.tgz
+    version: 0.5.0
+generated: "2020-12-21T10:23:14.371785+11:00"
